@@ -1,0 +1,18 @@
+{
+  "dns_ip": "",
+  "dns_udp_port": 53,
+  "dns_tcp_port": 53,
+  "dns_list": [
+    {
+      "address": "1.1.1.1",
+      "enable": true,
+      "doh": true
+    },
+    {
+      "address": "223.5.5.5",
+      "enable": true,
+      "doh": true
+    }
+  ]
+}
+
